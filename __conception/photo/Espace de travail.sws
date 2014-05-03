@@ -4,16 +4,16 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{4E177BCB-2E45-4784-8D0E-63C46A3ED799}" Name="photo" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="photo.prj"/>
+		<Model Expanded="Yes" ID="{4E177BCB-2E45-4784-8D0E-63C46A3ED799}" Loaded="No" Name="photo" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="photo.prj"/>
 		<Folder Name="Use Cases">
-			<Model ID="{B86CD073-56CF-4518-88F6-95284BDA3C7E}" Name="Admin" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Admin.moo"/>
-			<Model ID="{243D7A38-9155-407D-91E5-D47887A847B1}" Name="Utilisateur - Non Authentified" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Utilisateur - Non Authentified.moo"/>
-			<Model ID="{3D0F5680-F3E2-477A-A456-E5976D2F45A8}" Name="Utilisateur - Authentified" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Utilisateur - Authentified.moo"/>
+			<Model ID="{B86CD073-56CF-4518-88F6-95284BDA3C7E}" Loaded="No" Name="Admin" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Admin.moo"/>
+			<Model ID="{243D7A38-9155-407D-91E5-D47887A847B1}" Loaded="No" Name="Utilisateur - Non Authentified" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Utilisateur - Non Authentified.moo"/>
+			<Model ID="{3D0F5680-F3E2-477A-A456-E5976D2F45A8}" Loaded="No" Name="Utilisateur - Authentified" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Utilisateur - Authentified.moo"/>
 		</Folder>
 		<Folder Expanded="Yes" Name="merise">
-			<Model Expanded="Yes" ID="{00030B19-A5D9-4942-9E32-9B20CD1CF459}" Name="Données conceptuelles_1" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Données conceptuelles_1.mcd"/>
+			<Model Expanded="Yes" ID="{00030B19-A5D9-4942-9E32-9B20CD1CF459}" Name="Données conceptuelles_1" Selected="Yes" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Données conceptuelles_1.mcd"/>
 			<Model Expanded="Yes" ID="{FD62E7C6-8BCE-45F6-97DC-4FB98D1DF4BD}" Name="Données Logiques" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="Données Logiques.mld"/>
-			<Model Expanded="Yes" ID="{5E00C626-9342-4A04-8B99-6AE9FAFAC764}" Name="Données Physique" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Données Physique.mpd"/>
+			<Model Expanded="Yes" ID="{5E00C626-9342-4A04-8B99-6AE9FAFAC764}" Name="Données Physique" OpenedReadOnly="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Données Physique.mpd"/>
 		</Folder>
 	</Local>
 	<BrowserModule Name="Référentiel"/>
